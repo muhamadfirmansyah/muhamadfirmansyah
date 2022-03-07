@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhamad Firmansyah</h1>
 <h3>A passionate web developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React Native**
 
 - 📝 I regularly write articles on [https://fnwrkio.blogspot.com](https://fnwrkio.blogspot.com)
 
