@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 📝 I regularly write articles on [https://fnwrkio.site](https://fnwrkio.site)
+- 📝 I regularly write articles on [https://fndev.site](https://fndev.site)
 
 - 📫 How to reach me **hello@fndev.site**
 
