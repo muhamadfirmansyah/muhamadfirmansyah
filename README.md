@@ -36,7 +36,7 @@
 </p>
 
 
-<table style="border-radius: 6px;">
+<table style="border-radius: 6px !important;">
     <tr>
         <td>
             <img src="https://streak-stats.demolab.com/?user=muhamadfirmansyah&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="" />
