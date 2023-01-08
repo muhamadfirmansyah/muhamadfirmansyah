@@ -42,7 +42,7 @@
             <img src="https://streak-stats.demolab.com/?user=muhamadfirmansyah&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="" />
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=muhamadfirmansyah&hide=stars,issues&hide_border=true&title_color=fc9101&show_icons=true" alt="" />
+            <img src="https://github-readme-stats.vercel.app/api?username=muhamadfirmansyah&hide=stars,issues&hide_border=true&title_color=fc9101&show_icons=true&text_bold=false&icon_color=000000" alt="" />
         </td>
     </tr>
 </table>
