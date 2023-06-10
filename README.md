@@ -4,9 +4,9 @@
             
 - 🌿 I’m currently learning: _React Native_
             
-- 📝 I regularly write articles on: _[https://blog.fndev.site](https://blog.fndev.site)_
+- 📝 I regularly write articles on: _[https://mdfnsh.tech](https://mdfnsh.tech)_
             
-- 🍃 How to reach me: _hello@fndev.site_
+- 🍃 How to reach me: _hi@mdfnsh.tech_
 
 <h4 align="left">🔗 Connect with me:</h4>
 <h3 align="left">
