@@ -6,7 +6,7 @@
             
 - 📝 I regularly write articles on: _[https://mdfnsh.tech](https://mdfnsh.tech)_
             
-- 🍃 How to reach me: _git@mdfnsh.com_
+- 🍃 How to reach me: _[soon]_
 
 <h4 align="left">🔗 Connect with me:</h4>
 <h3 align="left">
