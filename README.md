@@ -4,7 +4,7 @@
             
 - 🌿 I’m currently learning: 📱 _Flutter_
             
-- 📝 I regularly write articles on: _[https://mdfnsh.tech](https://mdfnsh.tech)_
+- 📝 I regularly write articles on: _[soon]_
             
 - 🍃 How to reach me: _[soon]_
 
