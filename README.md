@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Muhamad Firmansyah</h1>
+<h1 align="center">Hi 👋</h1>
 
+<!-- 
 <h4>📌 A passionate developer from Indonesia</h4>
             
 - 🌿 I’m currently learning: 📱 _Flutter_
@@ -7,6 +8,8 @@
 - 📝 I regularly write articles on: _[soon]_
             
 - 🍃 How to reach me: _[soon]_
+
+
 
 <h4 align="left">🔗 Connect with me:</h4>
 <h3 align="left">
@@ -34,7 +37,7 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-<!-- <table>
+<table>
     <tr>
         <td>
             <img src="https://streak-stats.demolab.com/?user=muhamadfirmansyah&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="" />
