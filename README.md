@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+<p>Hi 👋</p>
 
 <!-- 
 <h4>📌 A passionate developer from Indonesia</h4>
